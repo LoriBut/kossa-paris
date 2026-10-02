@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://kossa-paris.fr/</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://kossa-paris.fr/" />
+    <image:image>
+      <image:loc>https://kossa-paris.fr/IMG_9783.JPG</image:loc>
+      <image:title>KOSSA Salon de Beauté — Airtouch Paris</image:title>
+      <image:caption>Réalisation Airtouch au salon KOSSA, Paris 11ème</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kossa-paris.fr/IMG_9784.JPG</image:loc>
+      <image:title>Coloration Airtouch — KOSSA Paris 11</image:title>
+      <image:caption>Technique Airtouch par les coloristes KOSSA, Paris</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kossa-paris.fr/IMG_9785.JPG</image:loc>
+      <image:title>Balayage Naturel — KOSSA Paris</image:title>
+      <image:caption>Balayage naturel réalisé au salon KOSSA Paris 11ème</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kossa-paris.fr/IMG_9788.JPG</image:loc>
+      <image:title>Mise en Beauté — KOSSA Salon Paris</image:title>
+      <image:caption>Mise en beauté complète au salon KOSSA, Paris 11</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kossa-paris.fr/IMG_9804.JPG</image:loc>
+      <image:title>Réalisation KOSSA — Coloration Luxe Paris</image:title>
+      <image:caption>Coloration haut de gamme au salon KOSSA Paris 11ème</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

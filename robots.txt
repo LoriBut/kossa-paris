@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kossa-paris.fr/sitemap.xml
+
+# Bloquer les fichiers inutiles pour les robots
+Disallow: /script.js
+Disallow: /style.css
